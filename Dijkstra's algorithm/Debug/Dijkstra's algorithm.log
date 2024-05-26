@@ -1,0 +1,4 @@
+﻿  Dijkstra's algorithm.cpp
+D:\University\Штучний інтелект\Lab№2\Dijkstra's algorithm\Dijkstra's algorithm.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\University\Штучний інтелект\Lab№2\Dijkstra's algorithm\Dijkstra's algorithm.cpp(78,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Dijkstra's algorithm.vcxproj -> D:\University\Штучний інтелект\Lab№2\Dijkstra's algorithm\Debug\Dijkstra's algorithm.exe
